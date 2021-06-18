@@ -150,8 +150,7 @@ body{
     font-size: 18px;
     border-width: 1px;
   }
-} 
-.attribution a  {  
+}.attribution {  
     font-size: 14px; 
     color: var(--p-color);  
 }
@@ -169,8 +168,6 @@ body{
 @media (max-width:767px){
     .attribution {
         margin-top:30px;
-    }
-    .attribution a {
         text-align:center;
-    }
+    } 
 }
