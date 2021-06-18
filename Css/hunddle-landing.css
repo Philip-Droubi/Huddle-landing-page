@@ -167,7 +167,7 @@ body{
     text-decoration: underline;
 }
 @media (max-width:767px){
-    .attribution a {
+    .attribution {
         margin-top:30px;
     }
     .attribution a {
