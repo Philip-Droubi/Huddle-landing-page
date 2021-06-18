@@ -166,3 +166,8 @@ body{
     color: hsl(300, 36%, 51%);
     text-decoration: underline;
 }
+@media (max-width:767px){
+    .attribution a {
+        text-align:center;
+    }
+}
